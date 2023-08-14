@@ -35,4 +35,5 @@ Estos son el principio de las bases de datos.
 listas, colas, pilas, estructuras.
 
 /* Ordenamiento
+Se pueden organizar elementos a traves de diferentes funciones.
 
