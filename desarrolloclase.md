@@ -37,3 +37,12 @@ listas, colas, pilas, estructuras.
 /* Ordenamiento
 Se pueden organizar elementos a traves de diferentes funciones.
 
+/* Pilas
+Es una lista ordenada o estructura de datos.
+Respecto al modo de acceso el ultimo en entrar es el primero en salir (FIFO).
+De igual forma se utilizan nodos como en la creacion de colas.
+new     // crea un nuevo espacio de memoria
+delete  // elimina dicho espacio  de memoria
+
+stack y heap
+
